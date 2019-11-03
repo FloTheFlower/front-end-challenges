@@ -1,0 +1,40 @@
+.wrapper {
+   background-color: white;
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+  
+  }
+
+  .div1 {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    align-items: flex-start;
+  }
+
+  .divCorner {
+    width: 280px;
+    height: 280px; 
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+  }
+
+
+  .div2 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    align-self: center;
+  }
+    
+
+  
