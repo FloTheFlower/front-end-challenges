@@ -1,0 +1,50 @@
+.wrapper {
+    /*background-color: black;
+   color: white;*/
+   display: flex; 
+   justify-content: space-evenly;
+  /*  height: 100vh;*/
+  
+  
+  }
+  .div1 {
+    width: 100px;
+    margin: 10 px;
+    border-color: white;
+    background-color: black;
+    color: white;
+    border: 10px;
+  }
+  
+  .div2 {
+    width: 100px;
+    height: 100px;
+    margin: 10 px;
+    border-color: white;
+    background-color: black;
+    color: white;
+    border: 10px;
+  }
+    
+  
+  .div3 {
+    width: 100px;
+    background-color: black;
+    color: white;
+    margin: 10 px;
+    border-color: white;
+    border: 10px;
+   
+  }
+  
+  .div4 {
+    width: 100px;
+    background-color: white;
+    
+  }
+  
+  .div5 {
+  
+    width: 100px;
+    background-color: white;
+  }
