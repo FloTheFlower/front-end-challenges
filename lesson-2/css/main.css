@@ -1,8 +1,25 @@
-/**
-// ==========================================================================
-//  MAIN CSS FILE [ HEADER ]
-// ==========================================================================
-**/
+  
 
+  
+  .wrapper {
+    background-color: #FDFEFE ;
+    margin: 20px;
+    padding: 10 px;
+    display: flex;
+   }
 
-/* CSS FILE COMMENTS [ INLINE ] */
+   .main {
+     justify-content:space-between;
+     padding: 15px;
+     background-color: #FBFEF2;
+    flex-basis: 75%;
+   }
+   
+   .sidebar {
+    background-color: #ECF0F6;
+    border: 1px dotted #000;
+    padding: 15px;
+    justify-content: space-between;
+    flex-basis: 25%;
+   }
+
