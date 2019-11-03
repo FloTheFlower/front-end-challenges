@@ -1,0 +1,42 @@
+.wrapper {
+   background-color: white;
+   display: grid; 
+   grid-template-columns: repeat(5,1fr);
+   grid-auto-rows: 90px minmax(200px, auto);
+   grid-gap: 20 px;  
+  }
+
+
+
+ .div1 {
+  
+    grid-column: 1 / 5;
+    grid-row: 1/5;
+    background-color:black;
+    color: white;
+    width: 400px;
+    height: 400px;
+  }
+
+  .div2 {
+    grid-column: 2/6;
+    grid-row: 2/6;
+    background-color:grey;
+    color: white;
+    width: 400px;
+    height: 400px;
+  }
+    
+
+
+    /*.divCorner {
+    width: 280px;
+    height: 280px; 
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+  }
+*/
+  
