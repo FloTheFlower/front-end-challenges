@@ -1,0 +1,45 @@
+.wrapper {
+    background-color: white;
+   display: flex; 
+   justify-content: flex-end;
+  }
+
+ .div1 {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    align-self: flex-end;
+  }
+
+
+  .wrapper2 {
+    background-color: white;
+   display: flex; 
+   justify-content: center;
+   flex-wrap: wrap;
+  }
+  .div2 {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+   
+  }
+    
+
+  .wrapper3 {
+    background-color: white;
+   display: flex; 
+   justify-content: flex-start;
+   flex-wrap: wrap;
+  }
+  
+  .div3 {
+    width: 300px;
+    height: 300px;
+    background-color:black;
+    color: white;
+  }
+  
+ 
