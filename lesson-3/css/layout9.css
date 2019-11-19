@@ -1,0 +1,56 @@
+.wrapper {
+   background-color: white;
+   display: flex;
+  
+  }
+
+
+  .div1 {
+    width: 200px;
+    height: 450px;
+    display: flex;
+    background-color: grey;
+    flex-direction: column;
+    justify-content: space-between;
+   
+  }
+
+  .mario {
+    height: 450 px;
+    display: flex;
+    background-color: grey;
+    color: white;
+
+  }
+
+    
+  /*.top-wrapper{
+    display: flex; 
+    height: 450px;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: grey;
+  }*/
+
+  
+ .div2 {
+    width: 125px;
+    height: 125px; 
+    background-color: black;
+    color: white;
+    margin-left: auto;    
+    margin-right: auto;
+  
+  } 
+
+  .div3 {
+  width: 125px;
+  height: 125px; 
+  background-color: black;
+  color: white;
+  margin-left: auto;    
+  margin-right: auto;
+  }
+    
+
