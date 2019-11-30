@@ -1,0 +1,4 @@
+Flexbox Cheatsheet:
+
+Wenn ich eine Box in eine andere rein verschieben will, muss ich margin top -50px machen. Also MINUS!!! 
+Wenn ich Boxen verschieben moechte, muss ich sie immer weiter nach rechts verscheiben mit margin-left 50px, dann next box: margin-left 100 px, dann next box: margin-left 150px, etc. 
