@@ -1,0 +1,59 @@
+.wrapper {
+   background-color: white;
+   display: flex;
+  }
+
+  .div1 {
+    width: 200px;
+    height: 450px;
+    display: flex;
+    background-color: grey;
+    flex-direction: column; 
+    justify-content: space-between;
+    color: white;
+  }
+
+  .mario {
+    height: 400 px;
+    width: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-left: auto;
+    flex-direction: column;
+  }
+
+ .div2 {
+    width: 150px;
+    height: 300px; 
+    margin-left: auto;
+    background-color: black;
+    display: flex;
+    color: white;
+    margin-left: auto;    
+    flex-direction: column;
+    justify-content: space-between;
+  } 
+
+
+  .mario2 {
+    width: 140px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+  }
+
+  .div3 {
+  width: 125px;
+  height: 125px; 
+  background-color: lightgray;
+  color: black;
+  margin-left: auto;    
+  flex-direction: column;
+  display: flex;
+
+  }
+    
+
+
+  
